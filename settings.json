@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": Superskee.aternos.me",
+    "ip": "Superskee.aternos.me",
     "port": 24370,
     "version": "",
     "try-creative": false
